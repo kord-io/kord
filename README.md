@@ -101,11 +101,9 @@ are in the actual dspec.md.
 [/notes/11-03-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/11-03-2014.md)  
 [/notes/11-11-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/11-11-2014.md)  
 
-
-
-<h2 id="a5 ">Final Specification</h2>
-the dspec.md can be found in /docs/final_spec/dspec.md and 
-fspec.md can be found in /docs/final_spec/fspec.md
+<h2 id="a5">Final Specification</h2>
+The dspec.md can be found in /docs/final_spec/dspec.md and 
+fspec.md can be found in /docs/final_spec/fspec.md  
 
 Live app: www.kord.io
 Running app locally: 
@@ -113,16 +111,21 @@ Running app locally:
 	npm install
 	npm start
 
-openup browser and enter localhost:3000
+open up browser and enter localhost:3000
 
-Once you create a board, importing a picture or video into the board requires that you click on the icon > insert url, > left click on to the white canvas. Removing elements requires a double left click on it. If you run into problems, a simple refresh will bypass most of them.
-Instructions on how to draw can be found by clicking on the pencil icon below the logo.
-## Documents to be Reviewed for Assignment 5
-[/docs/final_spec/dspec.md](https://github.com/umass-cs-326/team-kord.io/blob/master/docs/final_spec/dspec.md)
-[/docs/final_spec/fspec.md](https://github.com/umass-cs-326/team-kord.io/blob/master/docs/final_spec/fspec.md)
-[/notes/11-17-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/11-17-2014.md)
-[/notes/11-22-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/11-22-2014.md)
-[/notes/11-29-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/11-29-2014.md)
-[/notes/12-01-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/12-01-2014.md)
-[/notes/12-04-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/12-04-2014.md)
-[/notes/12-05-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/12-05-2014.md)
+Once you create a board, importing a picture or video into the board requires
+that you click on the icon > insert url, > left click on to the white canvas.
+Removing elements requires a double left click on it.
+If you run into problems, a simple refresh will bypass most of them.
+Instructions on how to draw can be found by clicking on the pencil icon below the logo.  
+## Documents to be Reviewed for Assignment 5  
+[/docs/final_spec/profile.md](https://github.com/umass-cs-326/team-kord.io/blob/master/docs/final_spec/profile.md) 
+[/docs/final_spec/proposal.md](https://github.com/umass-cs-326/team-kord.io/blob/master/docs/final_spec/proposal.md) 
+[/docs/final_spec/dspec.md](https://github.com/umass-cs-326/team-kord.io/blob/master/docs/final_spec/dspec.md)  
+[/docs/final_spec/fspec.md](https://github.com/umass-cs-326/team-kord.io/blob/master/docs/final_spec/fspec.md)  
+[/notes/11-17-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/11-17-2014.md)  
+[/notes/11-22-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/11-22-2014.md)  
+[/notes/11-29-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/11-29-2014.md)  
+[/notes/12-01-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/12-01-2014.md)  
+[/notes/12-04-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/12-04-2014.md)  
+[/notes/12-05-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/12-05-2014.md)  
