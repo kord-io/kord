@@ -124,3 +124,5 @@ Instructions on how to draw can be found by clicking on the pencil icon below th
 [/notes/11-22-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/11-22-2014.md)
 [/notes/11-29-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/11-29-2014.md)
 [/notes/12-01-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/12-01-2014.md)
+[/notes/12-04-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/12-04-2014.md)
+[/notes/12-05-2014.md](https://github.com/umass-cs-326/team-kord.io/blob/master/notes/12-05-2014.md)
