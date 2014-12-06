@@ -1,4 +1,4 @@
-<p align="right"><img src="https://github.com/umass-cs-326/team-kord.io/blob/master/app/public/images/logokordshadow.png" width="240px" alt="Where your ideas connect to our system."></p>  
+<p align="right"><img src="https://github.com/umass-cs-326/team-kord.io/blob/master/app/public/images/logokordshadow.png" alt="Where your ideas connect to our system."></p>  
 
 [Assignment 1] (#a1)  
 [Assignment 2] (#a2)  
