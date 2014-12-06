@@ -120,7 +120,7 @@ If you run into problems, a simple refresh will bypass most of them.
 Instructions on how to draw can be found by clicking on the pencil icon below the logo.  
 ## Documents to be Reviewed for Assignment 5  
 
-[https://drive.google.com/a/umass.edu/folderview?id=0B16ZFB-7RqVbejVzYXZjMVA1TkE&usp=sharing#)](Presentations)
+[https://drive.google.com/a/umass.edu/folderview?id=0B16ZFB-7RqVbejVzYXZjMVA1TkE&usp=sharing#](Presentations)
 [/docs/final_spec/profile.md](https://github.com/umass-cs-326/team-kord.io/blob/master/docs/final_spec/profile.md) 
 [/docs/final_spec/proposal.md](https://github.com/umass-cs-326/team-kord.io/blob/master/docs/final_spec/proposal.md) 
 [/docs/final_spec/dspec.md](https://github.com/umass-cs-326/team-kord.io/blob/master/docs/final_spec/dspec.md)  
